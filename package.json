@@ -25,5 +25,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nomika/shop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nomika/shop/issues"
+  },
+  "homepage": "https://github.com/Nomika/shop#readme"
 }
